@@ -1,0 +1,12 @@
+## working principle
+
+
+1. ACS712 measures motor current.
+2. LM35 measures temperature.
+3. ESP32 reads both sensors.
+4. Current and temperature are displayed on OLED.
+5. If current exceeds 0.7 A:
+   - Relay disconnects motor.
+   - Buzzer turns ON.
+   - OLED displays OVERLOAD.
+6. Once current falls below safe level, motor restarts automatically.
