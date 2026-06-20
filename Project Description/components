@@ -1,0 +1,13 @@
+## Hardware Components
+
+| Component | Quantity |
+|------------|----------|
+| ESP32 | 1 |
+| ACS712 Current Sensor | 1 |
+| LM35 Temperature Sensor | 1 |
+| Relay Module | 1 |
+| OLED Display (SSD1306) | 1 |
+| Buzzer | 1 |
+| L298N Motor Driver | 1 |
+| DC Motor | 1 |
+| Power Supply | 1 |
