@@ -1,4 +1,4 @@
-# motor_overload_protection_system
+
 # Motor Overload Protection System
 
 ## Project Overview
